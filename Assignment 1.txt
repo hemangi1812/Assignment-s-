@@ -1,0 +1,35 @@
+1. Write a short paragraph in your own words defining what a 'program' is and give one real-life example from any app you use daily (like Instagram, Zomato, or Paytm).
+
+Ans:- a program is a set of instructions written in step by step format which tells computer how to perform a specific task like Add, sub. div etc. It used to perform specific tasks automatically based on the instructions given by a programmer. program makes apps, software for users it makes communication and daily tasks easy and helpful
+
+real-life examples: using social media apps ( Instagram, WhatsApp, snapchat etc) for communicating with people, sharing moments like photos/videos on story, status, posts. program processes the action, updates it and shows the change.
+
+2. List three popular programming languages you have heard of, and for each, mention whether it is usually compiled, interpreted, or can be both.<br><br><em><strong>Hint:</strong> Think of languages like Java, Python, and JavaScript.</em>
+
+Ans:- compile: compile means converting bytecode into machine code where normal language is translated into machine language then executed directly by the CPU.
+(e.g., C, C++, JAVA)
+
+Interpreted: the interpreter reads each instruction line by line and translates it into machine code at runtime.
+(e.g., Python, HTML, JAVA)
+
+4. Write down the steps (as an algorithm, using simple numbered instructions) for ordering food on Swiggy — from opening the app to completing payment.
+
+Algorithm for Ordering Food on Swiggy Application
+
+Step 1: Start.
+Step 2: Open the Swiggy app.
+Step 3: Log in/sign-up to your account .
+Step 4: Add or use your current location for your delivery.
+Step 5: Search for a restaurant or food item you want to order.
+Step 6: Select the restaurant/ specific food.
+Step 7: Choose the food items you want.
+Step 8: Add the selected items to the cart.
+Step 9: Review the cart and check the total amount.
+Step 10: Click on Proceed to Checkout.
+Step 11: Add or confirm the delivery address and add additional information(call, text or leave on doorstep).
+Step 12: Choose a payment method (UPI, Card, Cash, etc.).
+Step 13: Complete the payment.
+Step 14: Receive the order confirmation.
+Step 15: Track your order until it is delivered.
+Step 16: Stop.
+
